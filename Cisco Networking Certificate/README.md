@@ -20,28 +20,10 @@ Through practical examples and interactive learning, I gained a clearer picture 
 
 ---
 
-## 🎯 Why It Matters
-
-This certification helped me:
-
-- Build confidence in basic networking skills  
-- Understand how the internet works at a technical level  
-- Prepare for further certifications like **CCNA** or roles in **IT support**, **network administration**, and **cloud computing**
-
----
-
 ## 📜 Certificate
 
-You can find the certificate in the `certificate/` folder or view it below:
 
 ![Cisco Networking Basics Certificate](./CISCO%20Certification_page-0001.jpg)
 
 ---
 
-## 🙌 Gratitude
-
-Special thanks to **Cisco Networking Academy** for providing this well-structured and beginner-friendly course.
-
----
-
-> _"Every connection begins with a strong network."_ 🌐
