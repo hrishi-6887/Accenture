@@ -45,8 +45,8 @@ Our team was proud to be among the **Top 40 teams** selected in this competitive
 ## 📜 Certificates
 
 Certificates from both hackathons are available in the `certificates/` folder of this repository:
-- [PAC HACK 2024 Certificate of Appreciation](https://github.com/hrishi-6887/Certificate/blob/main/Hackathon/Hack%20to%20future%20Certificate.jpg)
-- [Hack2Future 2024 Certificate of Participation]
+- [PAC HACK 2024 Certificate of Appreciation](https://github.com/hrishi-6887/Certificate/blob/main/Hackathon/PACHACK%20Certificate.jpg)
+- [Hack2Future 2024 Certificate of Participation](https://github.com/hrishi-6887/Certificate/blob/main/Hackathon/Hack%20to%20future%20Certificate.jpg)
 
 ---
 
