@@ -20,7 +20,7 @@ This hands-on experience gave me valuable insight into the kind of strategic, da
 
 - Data Analysis  
 - Data Cleanup & Interpretation  
-- Data Visualisation (Power BI & Tableau)  
+- Data Visualisation 
 - Dashboards & Reports  
 - Charts & Graphs  
 - Analytics & Insights  
