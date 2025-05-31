@@ -1,42 +1,36 @@
-# 📈 Tata Group Data Visualisation: Empowering Business with Effective Insights
+# 🎯 Accenture North America Data Analytics & Visualization Job Simulation
 
-This repository highlights my experience and key takeaways from completing the **Tata Data Visualisation: Empowering Business with Effective Insights** job simulation offered by **Tata Group** on the **Forage** platform (December 2024).
+This repository highlights my experience and key takeaways from the **Accenture North America Data Analytics and Visualization** job simulation offered on the **Forage** platform (August 2024).
 
 ## 🌟 Overview
 
-As part of the simulation, I stepped into the role of a data consultant at Tata Consultancy Services (TCS) and worked on a project to help a retail client prepare for the future by analyzing and visualizing their revenue data.
-
-This hands-on experience gave me valuable insight into the kind of strategic, data-driven work done in real-world consulting teams.
+As a participant in this virtual simulation, I stepped into the role of a **Data Analyst** at **Accenture**, where I worked on a project advising a hypothetical social media client. The simulation provided a realistic experience of how data analysis and visualization are used to inform business decisions in a client-facing environment.
 
 ## 🛠️ Key Tasks Completed
 
-- Created meaningful and insightful data visualizations using **Power BI**
-- Prepared thoughtful questions for a client meeting with senior leadership
-- Cleaned, analyzed, and interpreted retail revenue data
-- Designed visuals to support executive-level decision-making
-- Delivered insights in a presentation-style format to simulate client communication
+- Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends  
+- Used Excel and data analysis tools to identify strategic opportunities  
+- Prepared a **PowerPoint presentation** and recorded a **video** to communicate insights  
+- Delivered recommendations tailored for both client executives and internal stakeholders  
 
 ## ✅ Skills Gained
 
-- Data Analysis  
-- Data Cleanup & Interpretation  
-- Data Visualisation (Power BI & Tableau)  
-- Dashboards & Reports  
-- Charts & Graphs  
-- Analytics & Insights  
-- Effective Communication  
-- Presentation Skills  
-- Visual Basics  
+- Data Cleaning & Preparation  
+- Data Modeling & Analysis  
+- Content Trend Identification  
+- Excel for Analytics  
+- Data Visualization  
+- Strategic Communication  
+- Slide Deck Creation  
+- Client-Focused Presentation Skills  
 
 ## 📌 Program Info
 
-**Program:** Tata Data Visualisation: Empowering Business with Effective Insights  
+**Program:** Accenture North America Data Analytics & Visualization  
 **Platform:** [Forage](https://www.theforage.com/)  
-**Date Completed:** December 2024  
-**Offered by:** Tata Group (TCS)
+**Date Completed:** August 2024  
+**Offered by:** Accenture  
 
 ---
 
-> This project reaffirmed my passion for solving strategic business problems through data. I'm excited to apply these skills on real consulting teams and continue developing as a data professional.
-
- 
+> This simulation confirmed my interest in working with data to solve real client problems. I enjoyed cleaning, modeling, and analyzing datasets, building visual reports, and presenting insights to stakeholders. I'm excited to apply these skills in diverse project teams at companies like Accenture.
