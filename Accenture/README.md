@@ -33,4 +33,4 @@ As a participant in this virtual simulation, I stepped into the role of a **Data
 
 ---
 
-> This simulation confirmed my interest in working with data to solve real client problems. I enjoyed cleaning, modeling, and analyzing datasets, building visual reports, and presenting insights to stakeholders. I'm excited to apply these skills in diverse project teams at companies like Accenture.
+> This simulation confirmed my interest in working with data to solve real client problems. I enjoyed cleaning, modeling, and analyzing datasets, building visual reports, and presenting insights to stakeholders. I'm excited to apply these skills in diverse project teams at data analytical companies.
